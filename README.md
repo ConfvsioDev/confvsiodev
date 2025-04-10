@@ -27,12 +27,6 @@ Project Vision is an all-in-one productivity platform designed to streamline you
 
 Project Vision was born from the need to simplify productivity tools. Instead of juggling multiple apps, Project Vision brings everything together in one beautiful, intuitive interface. The goal is to help you focus on what matters most - getting things done.
 
-## 📫 Get in Touch
-
-- **Email**: [Your Email]
-- **LinkedIn**: [Your LinkedIn Profile]
-- **Twitter**: [Your Twitter Handle]
-
 ## 🎯 Current Focus
 
 I'm currently working on:
